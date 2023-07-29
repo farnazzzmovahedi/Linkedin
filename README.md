@@ -1,8 +1,8 @@
-# Linkedin
+# LinkedIn
 
-A simple Linkedin simulator.
+A simple LinkedIn simulator.
 
-The goal of this project is to implement a social network to link people together based on each person's skills.
+This project aims to implement a social network to link people together based on each person's skills.
 
 
 
